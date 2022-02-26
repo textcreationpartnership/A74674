@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A conspiracy discovered, or The report of a committee to the House of Commons in Parliament, of the examination of divers of the conspirators and others in the late treason, Iune the 17. 1641. 1. concerning the tower. 2. Wherein the French are concerned in this conspiracy. 3. Of provoking the army against the Parliament by false reports.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74674</idno>
+            <idno type="STC">Thomason E160_17</idno>
+            <idno type="STC">ESTC R1465</idno>
+            <idno type="EEBO-CITATION">99859712</idno>
+            <idno type="PROQUEST">99859712</idno>
+            <idno type="VID">111808</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74674)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111808)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E160[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A conspiracy discovered, or The report of a committee to the House of Commons in Parliament, of the examination of divers of the conspirators and others in the late treason, Iune the 17. 1641. 1. concerning the tower. 2. Wherein the French are concerned in this conspiracy. 3. Of provoking the army against the Parliament by false reports.</title>
+               </titleStmt>
+               <extent>[2], 4 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcut frontispiece.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:111808:1"/>
+            <p>
+               <figure>
+                  <p>
+                     <figure>
+                        <figDesc>depiction of the king in council with several clergymen, with the Angel of Death, bearing sickle and hourglass, in attendance</figDesc>
+                        <sp>
+                           <p>Time brings all to light.</p>
+                        </sp>
+                        <sp>
+                           <p>The eye of heaven ſeeth all.</p>
+                        </sp>
+                     </figure>
+                     <figure>
+                        <head>1589</head>
+                        <figDesc>(?)depiction of the English Armada, in which the English were defeated by the Spanish</figDesc>
+                     </figure>
+                     <figure>
+                        <head>1605</head>
+                        <figDesc>(?)depiction of Guy Fawkes entering Parliament (in connection with the Gunpowder Plot)</figDesc>
+                     </figure>
+                     <figure>
+                        <head>1639</head>
+                        <figDesc>(?) depiction of the Battle of the Downs, in which the Spanish were defeated in English waters</figDesc>
+                     </figure>
+                  </p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:111808:1" rendition="simple:additions"/>
+            <p>A CONSPIRACY DISCOVERED OR THE EPORT OF A COMMITTEE To the Houſe of <hi>Commons</hi> in <hi>Parliament,</hi> of the Examination of divers of the Con<g ref="char:EOLhyphen"/>ſpirators and others in the late Treaſon, <hi>Iune</hi> the 17. 1641.</p>
+            <list>
+               <item>1. Concerning the Tower.</item>
+               <item>2. Wherein the French are concerned in this <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nſpiracy.</item>
+               <item>3. Of provoking the Army againſt the Parlia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent, by falſe Reports.</item>
+            </list>
+            <p>Printed in the year 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111808:2"/>
+            <pb n="1" facs="tcp:111808:2"/>
+            <head>A CONSPIRACY DISCOVERED: OR, <hi>The Report of the</hi> Committee to the Houſe of <hi>Commons</hi> in <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> of the examination of divers of the Conſpirators and others in the late Treaſon, <hi>Iune</hi> the 17, 1641.</head>
+            <p>Mr. <hi>Fynes</hi> made Report to the Houſe of Commons of three Heads.
+<list>
+                  <item>1. Concerning the Tower.</item>
+                  <item>2. Wherein the French are concerned in the Conſpiracy.</item>
+                  <item>3. Of provoking the Army againſt the Parliament by falſe reports.</item>
+               </list>
+            </p>
+            <pb n="2" facs="tcp:111808:3"/>
+            <p>Captaine <hi>Billingſleyes</hi> Examination was reported by Mr. <hi>Hambden,</hi> who ſayes, hee had no hand in the Conſpiracie, onely that Sir <hi>Iohn Suckling</hi> invited him to the imploy<g ref="char:EOLhyphen"/>ment in the Army.</p>
+            <p>Alſo, one <hi>Nuts Examination</hi> reported, who depoſed that the Earle of Straffords eſcape was practiſed.</p>
+            <p>Then the Lieutenant of the Towers Exa<g ref="char:EOLhyphen"/>mination was reported, who ſayes cleerely, that the Earle of Strafford endeavoured an Eſcape, promiſing 20000. pound to marry his Son to his Daughter, and to have made her one of the greateſt Mariages in the King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Concerning the Army Lieutenant Co<g ref="char:EOLhyphen"/>lonell <hi>Ballards Examination</hi> was reported by Sir <hi>Phillip Stapleton,</hi> which ſhewes that Captaine <hi>Childley</hi> had brought downe to the Army many inſtrnctions.</p>
+            <p>And that Colonell <hi>Goring</hi> ſhould bee Lieutenant Generall of the Army, and the Prince, and the Lord of Newcaſtle to meete them in Nottinghamſhire, with one thouſand Horſe.</p>
+            <p>All which propoſitions came from Mr. <hi>Henry Iermin,</hi> and were diſperſed by Ser<g ref="char:EOLhyphen"/>jeant Major <hi>Wallis,</hi> and Captaine <hi>Chidley.</hi>
+            </p>
+            <p>Serjeant Major <hi>Wallis</hi> upon his Exami<g ref="char:EOLhyphen"/>nation, ſayes that the French would aſſiſt
+<pb n="3" facs="tcp:111808:3"/> them, and the Clergy<g ref="char:punc">▪</g> would at their owne charge ſend a thouſand horſe.</p>
+            <p>Colonell <hi>Goring</hi> upon his Examination ſayes, he was tyed up by an Oath of ſecrecy, and therefore durſt not anſwer to all the In<g ref="char:EOLhyphen"/>terrogatories, which Oath he ſaith was given him by M. <hi>Piercy</hi> in his Chamber at White-Hall in preſence of Mr. <hi>Wilmot,</hi> Colonell <hi>Aſhburnham,</hi> Captaine <hi>Pollard</hi> and others, who ſaid they had all of them taken this Oath, and that he was the laſt of the company that was to take it.</p>
+            <p>Miſtreſſe <hi>Plumw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> ſayes that a French man, a <hi>Carver to the Queene,</hi> brought Armes to her houſe, and deſired her to keepe them, for that the houſe of Commons had made an order, that no Papiſts ſhould have Armes in their cuſtody, and then fetched them back againe, about the time the Earle of Straffords eſcape was practiſed.</p>
+            <p>There was alſo a report of a Letter from Mr. <hi>Iermin</hi> to Mr. <hi>Mountague,</hi> which was intercepted, wherein he writ, that hee hoped that the horſe Leeches would be ſtarved for want of food.</p>
+            <p>Alſo, of another Letter from Mr. <hi>Moun<g ref="char:EOLhyphen"/>tague</hi> to Maſter <hi>Iermin,</hi> which ſhewed, they expected the Lord of Strafford ſhortly with them.</p>
+            <pb n="4" facs="tcp:111808:4"/>
+            <p>Alſo Mr. <hi>Bland</hi> upon his examinati<g ref="char:EOLhyphen"/>on, ſaith, that Mr. <hi>Iermin</hi> much endea<g ref="char:EOLhyphen"/>voured to get Portſmouth into his hands.</p>
+            <p>And that there was two letters from one <hi>Roberts</hi> a Prieſt, to the Biſhop of Chalcedon in recommendation of two Engliſh Prieſts.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
